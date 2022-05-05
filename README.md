@@ -1,7 +1,7 @@
 # ARGreetingCard
 Android AR Greeting Card
 
-<img src="https://github.com/Alexart1995/ARGreetingCard/blob/main/AR_GC1.gif" width="240" height="400">
+<img src="https://github.com/Alexart1995/ARGreetingCard/blob/main/AR_GC1.gif" width="240" height="480">
 
 ## Description
 - Create Vuforia account and database
